@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayomide Elisha.
 - 👀 💎💎💎.
-- 🌱 Front-end-developer.
+- 🌱 Front-end-website-developer.
 - 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me ... Reach me via telegram @Holiness2030.
 - 😄 <button>Functions</button>.
